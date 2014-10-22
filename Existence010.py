@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+#
+# Implementation of programming activity 1 (http://liris.cnrs.fr/ideal/mooc/lesson.php?n=013) 
 
 # Number of time steps to perform the experiment for
 N_CYCLES = 11
